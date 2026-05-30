@@ -1,9 +1,4 @@
-## Hi there
 
-- 🔭 I’m currently studying 3rd year EEE
-- 🌱 I’m currently learning Data Analytics
-- ⚡ Basic Knowledge on C and Python
-- 📫 How to reach me:sahitirawlo@gmail.com
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
