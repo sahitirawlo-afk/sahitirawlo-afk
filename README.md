@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools<br>-Python              <br>-Dev C                <br>-Pycharm<br>-VS Code<br>-Power Bi             <br>-Canva</h3>
+<h3 align="left">🛠 Language and tools<br>-Python              <br>-C                <br>-Pycharm<br>-VS Code<br>-Power Bi             <br>-Canva</h3>
 
 ###
 
